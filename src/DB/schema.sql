@@ -62,7 +62,7 @@ ALTER TABLE drug
     ADD COLUMN appearance TEXT NULL,
     ADD COLUMN shape TEXT NULL;
     
-    DESC drug;
+DESC drug;
     
     
 
